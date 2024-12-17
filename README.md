@@ -10,7 +10,7 @@ http://localhost:4000/swagger (Gateway)
 http://localhost:3000/swagger (Midterm API)(NOTE: Needs to be deployed first)
 
 Video Link:
- (NOTE: The video is send only, if it doesn't work, please send an E-Mail so I can change it to public)
+https://youtu.be/WBiZBQctDqY (NOTE: The video is send only, if it doesn't work, please send an E-Mail so I can change it to public)
 
 ---My Design---
 
